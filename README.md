@@ -1,8 +1,10 @@
 ### Hi there 👋
 I am a young software developer that is eager to contribute to the world of software. I am fairly experienced in HTML, CSS, JavaScript and Python.
 #
-🔭 I’m currently working on the Styled Functional Web Development Language (SFWDL). A draftversion of it can be found at:
+🔭 I’m currently working on the Styled Functional Web Development Language (SFWDL). A draft version of it can be found at:
 https://github.com/sasindumaheepala/sasindumaheepala.github.io/tree/main/SFWDL
+
+🌱 I’m currently learning Machine learning.
 <!--
 **sasindumaheepala/sasindumaheepala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
