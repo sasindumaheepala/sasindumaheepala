@@ -7,7 +7,8 @@ Programming has always interested me, as I have always wondered how computers do
 https://github.com/sasindumaheepala/sasindumaheepala.github.io/tree/main/SFWDL
 
 🌱 I’m currently learning Machine learning.
-😄 Pronouns: He/Him
+
+😄 Pronouns: He/Him.
 <!--
 **sasindumaheepala/sasindumaheepala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
