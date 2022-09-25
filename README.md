@@ -3,8 +3,12 @@ I am a young software developer that is eager to contribute to the world of soft
 
 Programming has always interested me, as I have always wondered how computers do tasks, and how I could control a computer to do a certain task.
 #
+<!--
 🔭 I’m currently working on the Styled Functional Web Development Language (SFWDL). A draft version of it can be found at:
 https://github.com/sasindumaheepala/sasindumaheepala.github.io/tree/main/SFWDL
+-->
+
+- 🔭 I’m currently working on a PyGame project for school.
 
 🌱 I’m currently learning Machine learning and Java.
 
