@@ -8,7 +8,7 @@ Programming has always interested me, as I have always wondered how computers do
 https://github.com/sasindumaheepala/sasindumaheepala.github.io/tree/main/SFWDL
 -->
 
-- 🔭 I’m currently working on a PyGame project for school.
+🔭 I’m currently working on a PyGame project for school.
 
 🌱 I’m currently learning Machine learning and Java.
 
