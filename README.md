@@ -10,7 +10,7 @@ https://github.com/sasindumaheepala/sasindumaheepala.github.io/tree/main/SFWDL
 
 🔭 I’m currently working on a PyGame project for school.
 
-🌱 I’m currently learning Machine learning and Java.
+🌱 I’m currently learning Machine learning (TensorFlow) and Java.
 
 😄 Pronouns: He/Him.
 <!--
