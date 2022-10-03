@@ -11,9 +11,10 @@ https://github.com/sasindumaheepala/sasindumaheepala.github.io/tree/main/SFWDL
 
 🔭 I’m currently working on a PyGame project for a school assignment.
 
-🌱 I’m currently learning Machine learning and Java.
+🌱 I’m currently learning Machine learning in Python and Java.
 
 😄 Pronouns: He/Him.
+
 
 <!--
 **sasindumaheepala/sasindumaheepala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
