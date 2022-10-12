@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a young software developer that is eager to contribute to the world of software. I am fairly experienced in HTML, CSS, JavaScript, PHP and Python.
+I am a young software developer who is eager to contribute to the world of software. I am fairly experienced in HTML, CSS, JavaScript, PHP and Python.
 
 Programming has always interested me, as I have always wondered how computers do tasks, and how I could control a computer to do a certain task.
 
@@ -16,7 +16,7 @@ https://github.com/sasindumaheepala/sasindumaheepala.github.io/tree/main/SFWDL
 
 
 
-🔭 I’m currently working on a PyGame project for a school assignment.
+🔭 I’m currently working on a Python web crawler.
 
 🌱 I’m currently learning machine learning in Python and I am also learning Android development in Java.
 
